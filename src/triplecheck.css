@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  width: 600px;
+  text-align: center;
+  margin: auto;
+}
+
+#triangle {
+  width: 0;
+  height: 0;
+  border-bottom: 4em solid mediumaquamarine;
+  border-right: 5em solid transparent;
+  margin: 20px auto;
+}
+
+#result {
+  height: 1em;
+  margin: auto;
+  text-align: center;
+}
+
+#inputWindows {
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  display: inline-block;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  display: inline-block;
+  margin: 0px 5px;
+}
